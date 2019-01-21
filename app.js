@@ -80,5 +80,5 @@ function clearError(){
 }
 
 
-
-alert('WElcome to Samayun\'s Site')
+prompt('what\'s your name')
+alert('Welcome to Samayun\'s Site')
