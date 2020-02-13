@@ -1,5 +1,8 @@
 # loan-calculator
 
-* https://samayun0799.github.io/loan-calculator/
-  https://gentle-reef-69248.herokuapp.com/
+* https://samayun.github.io/loan-calculator/
+
+
+
+ * Developer's Bio :  https://gentle-reef-69248.herokuapp.com/
 
